@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    text-align: center;
+
+}
+
+h1{
+    background-image: linear-gradient(to right, blue, orangered);
+    color: white;
+    border-radius: 40px;
+}
+
+h1:hover{
+    background-image: linear-gradient(to right, orangered, blue);
+}
+
+span{
+    font-size: 14px;
+}
